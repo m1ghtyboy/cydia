@@ -1,0 +1,8 @@
+Origin: M1ghty boy's repo
+Label: M1ghty boy's repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: My Repo thati dont plan on making any major tweaks on apart from personal ones
